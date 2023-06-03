@@ -6,7 +6,7 @@
     --z-index-modal: 13;
 }
 body{
-    background-image: url("/assets/images/image.png");
+    background-image: url("/frontend/assets/images/image.png");
     background-size: cover;
     overflow-x: hidden;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -138,7 +138,7 @@ nav .header-action-icon-2 a:nth-child(2) {
     background-repeat: no-repeat;
     background-position: top;
     background-size: auto 100%;
-    background-image: url("/assets/images/home-bg-lg.cf3b1d1fe67d6d264c78a05f3eb1675b.jpg");
+    background-image: url("/frontend/assets/images/home-bg-lg.cf3b1d1fe67d6d264c78a05f3eb1675b.jpg");
     
     animation: 2s pulse infinite;
     box-shadow: 0 2px 5px -1px rgb(0 0 0 / 60%);

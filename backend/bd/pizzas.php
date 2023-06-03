@@ -7,7 +7,7 @@ $pizzas = array(
                 "price"=> 2999,
                 "soldPrice"=> 999,
                 "category"=> "pizza enfant",
-                "image"=> "/assets/images/pizza/4-fromages.jpg",
+                "image"=> "/frontend/assets/images/pizza/4-fromages.jpg",
                 "options"=> array(
                     array(
                         "name"=> "Medium Classic",
@@ -41,7 +41,7 @@ $pizzas = array(
                         "price"=> 2599,
                         "soldPrice"=> 999,
                         "category"=> "pizza femme",
-                        "image"=> "/assets/images/pizza/bpm.jpg",
+                        "image"=> "/frontend/assets/images/pizza/bpm.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -72,7 +72,7 @@ $pizzas = array(
                         "price"=> 3599,
                         "soldPrice"=> 999,
                         "category"=> "pizza enfant",
-                        "image"=> "/assets/images/pizza/pepperoni.jpg",
+                        "image"=> "/frontend/assets/images/pizza/pepperoni.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -103,7 +103,7 @@ $pizzas = array(
                         "price"=> 2599,
                         "soldPrice"=> 999,
                         "category"=> "pizza femme",
-                        "image"=> "/assets/images/pizza/queen.jpg",
+                        "image"=> "/frontend/assets/images/pizza/queen.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -134,7 +134,7 @@ $pizzas = array(
                         "price"=> 2599,
                         "soldPrice"=> 999,
                         "category"=> "pizza homme",
-                        "image"=> "/assets/images/pizza/montagnarde.jpg",
+                        "image"=> "/frontend/assets/images/pizza/montagnarde.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -165,7 +165,7 @@ $pizzas = array(
                         "price"=> 4599,
                         "soldPrice"=> 999,
                         "category"=> "pizza enfant",
-                        "image"=> "/assets/images/pizza/supreme.jpg",
+                        "image"=> "/frontend/assets/images/pizza/supreme.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -196,7 +196,7 @@ $pizzas = array(
                         "price"=> 3599,
                         "soldPrice"=> 999,
                         "category"=> "pizza femme",
-                        "image"=> "/assets/images/pizza/raclette.jpg",
+                        "image"=> "/frontend/assets/images/pizza/raclette.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -227,7 +227,7 @@ $pizzas = array(
                         "price"=> 2999,
                         "soldPrice"=> 999,
                         "category"=> "pizza homme",
-                        "image"=> "/assets/images/pizza/chevre-miel.jpg",
+                        "image"=> "/frontend/assets/images/pizza/chevre-miel.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -258,7 +258,7 @@ $pizzas = array(
                         "price"=> 2999,
                         "soldPrice"=> 999,
                         "category"=> "pizza homme",
-                        "image"=> "/assets/images/pizza/chicken-barbecue.jpg",
+                        "image"=> "/frontend/assets/images/pizza/chicken-barbecue.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -289,7 +289,7 @@ $pizzas = array(
                         "price"=> 2999,
                         "soldPrice"=> 999,
                         "category"=> "pizza femme",
-                        "image"=> "/assets/images/pizza/orientale.jpg",
+                        "image"=> "/frontend/assets/images/pizza/orientale.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -320,7 +320,7 @@ $pizzas = array(
                         "price"=> 2999,
                         "soldPrice"=> 999,
                         "category"=> "pizza homme",
-                        "image"=> "/assets/images/pizza/margherita.jpg",
+                        "image"=> "/frontend/assets/images/pizza/margherita.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
@@ -351,7 +351,7 @@ $pizzas = array(
                         "price"=> 3999,
                         "soldPrice"=> 999,
                         "category"=> "pizza homme",
-                        "image"=> "/assets/images/pizza/nordique.jpg",
+                        "image"=> "/frontend/assets/images/pizza/nordique.jpg",
                         "options"=> array(
                             array(
                                 "name"=> "Medium Classic",
